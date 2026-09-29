@@ -1,4 +1,4 @@
-import type { Bookmark } from '../types/bookmark';
+import type { Bookmark } from '../types/bookmarks';
 
 const DAY = 24 * 60 * 60 * 1000;
 const now = Date.now();
